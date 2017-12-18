@@ -1,4 +1,4 @@
-# ETHExplorer V2 based off github.com/etherparty/explorer
+# AtlasBlockchainExplorer V2 based off github.com/etherparty/explorer
 
 ![ETHExplorer V2 Screenshot](http://i.imgur.com/wgROAS9.png)
 
@@ -10,13 +10,13 @@ Feel free to modify or reuse the code here.
 
 ##Reddit
 
-Discuss this project at: [Reddit Page on /r/ethreum](https://www.reddit.com/r/ethereum/comments/511j5a/new_ethereum_block_explorer_heavily_updated/)
+Discuss this project at: [Reddit Page on /r/atlasblockchain](https://www.reddit.com/r/atlasblockchain/)
 
 ##Donations
 
-ETH Address: 0xee298ae561bD7BE6e1040AFf281202E0b0646BA6
+ETH Address: 0xa3a887abfdcfd5b72ac21fb5f292544cc1d1a4aa
 
-BTC Address: 1AGxSzTPkthdNKfY5usVLwKDLk9i6sPTQj
+BTC Address: 1DHCfst4g6jsBmxBrbsf6LkDYsrTGCqfTn
 
 ##Installation
 
