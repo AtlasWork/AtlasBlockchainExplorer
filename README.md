@@ -14,13 +14,13 @@ Discuss this project at: [Reddit Page on /r/atlasblockchain](https://www.reddit.
 
 ##Donations
 
-ETH Address: 0xa3a887abfdcfd5b72ac21fb5f292544cc1d1a4aa
+ETH Address: 0xEa148e8f5266B4264f412eC1E0DE8dfd6eEC0D42
 
 BTC Address: 1DHCfst4g6jsBmxBrbsf6LkDYsrTGCqfTn
 
 ##Installation
 
-`git clone https://github.com/carsenk/explorer`
+`git clone https://github.com/AtlasWork/AtlasBlockchainExplorer.git`
 
 `npm install`
 
@@ -28,9 +28,9 @@ BTC Address: 1DHCfst4g6jsBmxBrbsf6LkDYsrTGCqfTn
 
 `npm start`
 
-Make sure to install geth as well for the ETH explorer to be able to function. Then run:
+Make sure to install atlasgeth as well for the Atlas Blockchain explorer to be able to function. Then run:
 
-`geth --rpc --rpcaddr localhost --rpcport 8545 --rpcapi "web3,eth" --rpccorsdomain "http://localhost:8000"`
+`geth --rpc --rpcaddr localhost --rpcport 57200 --rpcapi "web3,eth" --rpccorsdomain "http://localhost:8000"`
 
 Then visit http://localhost:8000 in your browser of choice after you npm start the explorer
 
